@@ -1,0 +1,9 @@
+.detailView{
+    display: flex;
+    flex-direction: row;
+}
+
+.div{
+    margin-left: 50%;
+    
+}
